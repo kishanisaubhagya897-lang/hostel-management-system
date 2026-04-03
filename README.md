@@ -42,14 +42,14 @@ A modern **full-stack Hostel Management System** built to streamline hostel oper
 
 📸 Screenshots:
 
-* [Warden Dashboard](src/screenshots/wd.png)
-* [Student Management](src/screenshots/W_studentManagement.png)
-* [Student Approval](src/screenshots/W_studentApproval.png)
-* [Room Management](src/screenshots/W_roomManagement.png)
-* [Complaints](src/screenshots/W_complaints.png)
-* [Inventory Management](src/screenshots/W_inventory.png)
-* [Staff Management](src/screenshots/W_staffManagement.png)
-* [Announcements](src/screenshots/W_announcements.png)
+* ![Warden Dashboard](src/screenshots/Wd.png)
+* ![Student Management](src/screenshots/W_studentManagement.png)
+* ![Student Approval](src/screenshots/W_studentApproval.png)
+* ![Room Management](src/screenshots/W_roomManagement.png)
+* ![Complaints](src/screenshots/W_complaints.png)
+* ![Inventory Management](src/screenshots/W_inventory.png)
+* ![Staff Management](src/screenshots/W_staffManagement.png)
+* ![Announcements](src/screenshots/W_announcement.png)
 
 ---
 
@@ -59,9 +59,12 @@ A modern **full-stack Hostel Management System** built to streamline hostel oper
 
 📸 Screenshots:
 
-* ![Student Dashboard](./screenshots/student-dashboard.png)
-* ![Room Booking](./screenshots/student-booking.png)
-* ![Complaints](./screenshots/student-complaints.png)
+* ![Student Dashboard](src/screenshots/Sd.png)
+* ![Student Profile](src/screenshots/S_profile.png)
+* ![Payments](src/screenshots/S_payment.png)
+* ![Maintanance Request](src/screenshots/S_maintainance.png)
+* ![Clearance](src/screenshots/S_clearance.png)
+* ![AI Assistant](src/screenshots/S_AI.png)
 
 ---
 
