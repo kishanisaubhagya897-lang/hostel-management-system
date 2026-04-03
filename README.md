@@ -89,7 +89,13 @@ A modern **full-stack Hostel Management System** built to streamline hostel oper
 
 ---
 
-## 🛠 Tech Stack
+
+## 🎥 Project Demo
+Experience the HostelManagement System in action:
+
+👉 [Watch Full Demo Video](https://drive.google.com/file/d/162HJFJlwLEbS7-1TeAsvIZJXMrF1jpSe/view?usp=sharing)
+
+---
 
 ## 🛠️ Tech Stack
 
