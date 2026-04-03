@@ -21,6 +21,27 @@ A modern **full-stack Hostel Management System** built to streamline hostel oper
 
 ## 🧑‍🤝‍🧑 User Roles & Screenshots
 
+✨ Landing Page
+
+* ![Landing Page](src/screenshots/l1.png)
+* ![Landing Page](src/screenshots/l2.png)
+* ![Landing Page](src/screenshots/l3.png)
+* ![Landing Page](src/screenshots/l4.png)
+* ![Landing Page](src/screenshots/l5.png)
+* ![Landing Page](src/screenshots/l6.png)
+
+---
+
+🔐 User Login
+
+* ![Login Page](src/screenshots/login.png)
+
+---
+🔐 User Registration
+
+* ![Register_User](src/screenshots/register.png)
+* ![OTP](src/screenshots/otp.png)
+
 ### 👨‍💼 Admin Panel
 
 > Manage users, rooms, reports, and system settings
@@ -70,25 +91,21 @@ A modern **full-stack Hostel Management System** built to streamline hostel oper
 
 ## 🛠 Tech Stack
 
-**Frontend**
+## 🛠️ Tech Stack
 
-* React.js (Vite)
-* Tailwind CSS / CSS
+| Layer    | Technology                               |
+| -------- | -----------------------------------------|
+| Frontend | React.js(Vite), TypeScript, Tailwind CSS |
+| Backend  | Node.js, Express.js, JavaScript          |
+| Database | MongoDB                                  |
 
-**Backend**
-
-* Node.js
-* Express.js
-
-**Database**
-
-* MongoDB Atlas
-
-**Other Tools**
+**Other Tools & Services**
 
 * Cloudinary (Image Uploads)
 * Nodemailer (Email Service)
 * JWT Authentication
+* AI Integration (Gemini / OpenAI)
+
 
 ---
 
@@ -180,17 +197,6 @@ hostel-management/
 * 📊 Advanced Analytics Dashboard
 * 💳 Online Payment Integration
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repository and submit pull requests.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
@@ -202,11 +208,14 @@ This project is licensed under the MIT License.
 
 ---
 
-## 💡 Author
+## 👨‍💻 Author
 
-**Mohamed Sasan**
-🎓 IT Undergraduate | 💻 Full-Stack Developer
+**Saubhagya**
+🎓 Undergraduate IT Student
+💻 Full Stack Developer
 
 ---
 
-⭐ If you like this project, don't forget to **star the repository!**
+## 🌟 Support
+
+If you like this project, give it a ⭐ on GitHub 🚀
